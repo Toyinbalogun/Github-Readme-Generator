@@ -17,9 +17,9 @@ Tests\
 Questions (User GitHub profile picture, User GitHub email)
 
 # Table of Contents
-1. [Installation](#Installation)\
-2. [Usage](#Usage)\
-3. [Demo](#Demo)\
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [Demo](#Demo)
 4. [Questions](#Questions)
 
 
@@ -32,14 +32,14 @@ Install the following npm modules:
 - "inquirer": "^6.5.2"
 
 # Usage
-1. Enter this comand: node index.js\
-2. Input your github username.\
-3. Input the title of your application.\
-4. Write a description for your application.\
-5. Describe the Installation procedure.\
-6. Write instructions for usage.\
-7. Choose a license for your application.\
-8. Write contributing procedure.\
+1. Enter this comand: node index.js
+2. Input your github username.
+3. Input the title of your application.
+4. Write a description for your application.
+5. Describe the Installation procedure.
+6. Write instructions for usage.
+7. Choose a license for your application.
+8. Write contributing procedure.
 9. Display example tests.
 
 # Demo
