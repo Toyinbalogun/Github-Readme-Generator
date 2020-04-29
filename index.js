@@ -8,28 +8,28 @@ const questions = [
         message: 'Enter the title of your project: ',
         name: 'title',
         type: 'input',
-        default: 'Title'
+        default: 'Default Project Title'
     },
     
     {
         message: 'Enter a description for your project: ',
         name: 'description',
         type: 'input',
-        default: 'This is the description...'
+        default: 'This is adefault description...'
     },
     
     {
         message: 'Enter the installation procedure(s): ',
         name: 'installation',
         type: 'input',
-        default: 'Installation process...'
+        default: 'Default installation process...'
     },
     
     {
         message: 'Provide instructions for the usage: ',
         name: 'usage',
         type: 'input',
-        default: 'Usage instructions...'
+        default: 'Default usage instructions...'
     },
     
     {
@@ -43,14 +43,14 @@ const questions = [
         message: 'How can this be contributed to: ',
         name: 'contributing',
         type: 'input',
-        default: 'Contributing procedure...',
+        default: 'Default contributing procedure...',
     },
     
     {
         message: 'Testing procedures:',
         name: 'tests',
         type: 'input',
-        default: 'Tests...'
+        default: 'Default tests...'
     }
 ]
 
