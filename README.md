@@ -17,10 +17,10 @@ Tests
 Questions (User GitHub profile picture, User GitHub email)
 
 # Table of Contents
-1.Installation
-2.Usage
-3.Demo
-4.Questions
+1.[Installation](#Installation) 
+2.[Usage](#Usage)
+3.[Demo](#Demo)
+4.[Questions](#Questions)
 
 # Installation
 Install the following npm modules:
