@@ -43,6 +43,7 @@ Install the following npm modules:
 9. Display example tests.
 
 # Demo
+![Demo](gif/readmegenerator.gif)
 
 # Questions
 Email: balogunt302@gmail.com

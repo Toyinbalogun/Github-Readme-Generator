@@ -15,7 +15,7 @@ const questions = [
         message: 'Enter a description for your project: ',
         name: 'description',
         type: 'input',
-        default: 'This is adefault description...'
+        default: 'This is a default description...'
     },
     
     {
@@ -94,7 +94,7 @@ function generateReadMe(answers){
         badgeURL = 'https://img.shields.io/aur/license/android-studio'
     }
 
-     // Return the string to be used to generate the readme.md
+    // Return the string to be used to generate the readme.md
     return `\n# ${answers.title}
             \n![](${badgeURL})
             \n## Description
